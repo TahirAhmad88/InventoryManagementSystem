@@ -165,39 +165,3 @@ InventoryManagementSystem/
 ## ⭐ Show Your Support
 
 If you found this project helpful, please give it a star ⭐ on GitHub!
-
----
-
-**Developed with ❤️ using C# and .NET Framework**
-```
-
----
-
-## Now update your README on GitHub:
-
-### Step 1: Press `.` key on your repository
-Go to your Inventory Management System repo and press the `.` key
-
-### Step 2: Open README.md
-Click on `README.md` file in the left sidebar
-
-### Step 3: Replace the content
-Delete everything and paste the code above
-
-### Step 4: Save and commit
-- Click Source Control (branch icon)
-- Type message: "Updated README with screenshots"
-- Click "Commit & Push"
-
----
-
-## Your README now includes:
-- ✅ All 8 screenshots properly displayed
-- ✅ Complete project overview
-- ✅ Database information
-- ✅ Login credentials table
-- ✅ Connection string example
-- ✅ Technologies used
-- ✅ Installation steps
-- ✅ Project structure
-- ✅ Professional badges
